@@ -3,6 +3,7 @@
 
 ### Usage examples:
   > python terminal-dcf-tool.py NSE:MRF
+  
   > python terminal-dcf-tool.py NSE:MRF --years 5 --growth 0.10 --wacc 0.12 --terminal-growth 0.03
 
 ### Notes & assumptions (kept minimal):
